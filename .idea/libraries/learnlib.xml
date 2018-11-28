@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="learnlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../learnlib-assignment/basic-learner/lib/learnlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../learnlib-assignment/basic-learner/lib/learnlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
